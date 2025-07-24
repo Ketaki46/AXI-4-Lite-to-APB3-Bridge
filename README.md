@@ -42,7 +42,8 @@ APB's simplified transaction structure helps reduce complexity for devices that 
 
 AXI APB Bridge block diagram 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45e06393-844b-4144-8df5-20f97e344067" />
+<img width="604" height="282" alt="image" src="https://github.com/user-attachments/assets/22d2fc18-418b-483b-b24f-7df23539f3a2" />
+
 
 
 
